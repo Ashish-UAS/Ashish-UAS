@@ -5,7 +5,7 @@
 -->
 
 # 👋 Hi, I'm Ashish  
-### UAS • Flight Dynamics • Control Systems • Autonomy
+### UAS • Flight Dynamics • Control Systems 
 
 I work on **Unmanned Aerial Systems **, **dynamical systems**, and **autonomous control**.  
 My interests include .
